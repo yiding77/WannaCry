@@ -1,0 +1,9 @@
+Nombre: WannaCry_sample_01
+Categoría: Ransomware
+Familia: WannaCry
+Valor hash: ea8fac7c65fb589b0d53560f5521f74f9e9b243478dcb6b3ea79b5e36449c8d9
+Método de infección: vulnerabilidad SMBv1
+Resumen analítico:
+- Cifrar los documentos del usuario y mostrar una interfaz de pago de rescate.
+- Auto-replicarse y crear servicios del sistema
+- Intente conectarse al dominio kill-switch
